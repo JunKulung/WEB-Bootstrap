@@ -1,0 +1,75 @@
+
+body {
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    }
+
+
+nav {
+        font-family: 'Hind Madurai', sans-serif;
+    }
+
+/* Bootstrap Overrides */
+    
+.jumbotron {
+    background-image: url("1.jpg"); 
+    background-position: center; 
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    margin-top:50px;
+    height: 50%;
+}
+.row {
+    font-family: 'Hind Madurai', sans-serif;
+}
+.left-col {
+    font-size: 28px;
+}
+.right-col {
+    font-size: 20px;
+}
+.center-col {
+    font-size: 20px;
+}
+.col-xs-12 h1 {
+    color: rgb(4, 1, 179);
+}
+.col-xs-12 h2 {
+    font-size: 26px;
+}
+.col-xs-12 img {
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+footer h5 {
+    padding: 10px 5px;
+    font-size: 17px;
+}
+footer img {
+    padding-bottom: 15px;
+}
+.col-sm-9 h4{
+    font-family: 'Bad Script', cursive;
+    font-size: 25px;
+    padding: 50px 0; 
+    color: white;
+}
+.col-sm-9 {
+    background-color: rgb(63, 116, 194);
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.question {
+    text-align: left;
+    color:  rgb(41, 101, 190);
+    padding:20px 0 15px 0; 
+}
+.col-xs-12 ul {
+    text-align: left;
+    font-size: 15px;
+    line-height: 30px;
+}
+.col-xs-12 p {
+    font-size: 15px;
+    line-height: 30px;
+    text-align: left;
+}
